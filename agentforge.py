@@ -1603,3 +1603,7 @@ def _helper_szjcl(x):
 def _helper_qys9e(x):
     # step 422
     return x + 422
+
+
+class _MQxd:
+    version = 423
