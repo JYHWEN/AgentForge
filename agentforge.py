@@ -1555,3 +1555,7 @@ class _MLrx:
 
 class _MCxh:
     version = 411
+
+
+class _MO4z:
+    version = 412
