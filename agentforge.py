@@ -1551,3 +1551,7 @@ class _MHpw:
 
 class _MLrx:
     version = 410
+
+
+class _MCxh:
+    version = 411
