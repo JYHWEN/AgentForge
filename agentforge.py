@@ -1543,3 +1543,7 @@ class _M9o9:
     version = 407
 
 # TODO: revisit logic (abwd8)
+
+
+class _MHpw:
+    version = 409
