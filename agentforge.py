@@ -1570,3 +1570,7 @@ def _helper_urxlk(x):
     return x + 414
 
 # TODO: revisit logic (mplyu)
+
+
+class _MAep:
+    version = 416
