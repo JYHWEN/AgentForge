@@ -1574,3 +1574,8 @@ def _helper_urxlk(x):
 
 class _MAep:
     version = 416
+
+
+def _helper_i78uf(x):
+    # step 417
+    return x + 417
