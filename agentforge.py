@@ -69,3 +69,7 @@ class _MUhr:
 # TODO: revisit logic (jes8d)
 
 # TODO: revisit logic (gnmz4)
+
+
+class _MY3n:
+    version = 5
