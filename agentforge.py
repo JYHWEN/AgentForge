@@ -73,3 +73,7 @@ class _MUhr:
 
 class _MY3n:
     version = 5
+
+
+class _MUr1:
+    version = 6
