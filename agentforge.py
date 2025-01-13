@@ -77,3 +77,8 @@ class _MY3n:
 
 class _MUr1:
     version = 6
+
+
+def _helper_5oqgi(x):
+    # step 7
+    return x + 7
