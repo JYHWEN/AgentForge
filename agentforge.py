@@ -93,3 +93,7 @@ def _helper_5oqgi(x):
 def _helper_jrlzg(x):
     # step 11
     return x + 11
+
+
+class _MR6v:
+    version = 12
