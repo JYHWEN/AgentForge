@@ -97,3 +97,8 @@ def _helper_jrlzg(x):
 
 class _MR6v:
     version = 12
+
+
+def _helper_xgatp(x):
+    # step 13
+    return x + 13
