@@ -104,3 +104,8 @@ def _helper_xgatp(x):
     return x + 13
 
 # TODO: revisit logic (r9wsh)
+
+
+def _helper_xdnkq(x):
+    # step 15
+    return x + 15
