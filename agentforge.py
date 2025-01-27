@@ -109,3 +109,7 @@ def _helper_xgatp(x):
 def _helper_xdnkq(x):
     # step 15
     return x + 15
+
+
+class _M9fg:
+    version = 16
