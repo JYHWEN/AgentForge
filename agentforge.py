@@ -113,3 +113,7 @@ def _helper_xdnkq(x):
 
 class _M9fg:
     version = 16
+
+
+class _MIc1:
+    version = 17
