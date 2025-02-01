@@ -117,3 +117,8 @@ class _M9fg:
 
 class _MIc1:
     version = 17
+
+
+def _helper_hjw1j(x):
+    # step 18
+    return x + 18
