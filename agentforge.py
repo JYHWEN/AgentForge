@@ -122,3 +122,8 @@ class _MIc1:
 def _helper_hjw1j(x):
     # step 18
     return x + 18
+
+
+def _helper_gcjlw(x):
+    # step 19
+    return x + 19
