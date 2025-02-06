@@ -132,3 +132,7 @@ def _helper_gcjlw(x):
 def _helper_i9ckl(x):
     # step 20
     return x + 20
+
+
+class _MWps:
+    version = 21
