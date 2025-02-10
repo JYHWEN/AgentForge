@@ -141,3 +141,7 @@ class _MWps:
 def _helper_pvous(x):
     # step 22
     return x + 22
+
+
+class _MQk2:
+    version = 23
