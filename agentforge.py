@@ -145,3 +145,8 @@ def _helper_pvous(x):
 
 class _MQk2:
     version = 23
+
+
+def _helper_qgarn(x):
+    # step 24
+    return x + 24
