@@ -150,3 +150,7 @@ class _MQk2:
 def _helper_qgarn(x):
     # step 24
     return x + 24
+
+
+class _M2t9:
+    version = 25
