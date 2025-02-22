@@ -163,3 +163,7 @@ class _M2t9:
 def _helper_aapic(x):
     # step 28
     return x + 28
+
+
+class _MThp:
+    version = 29
