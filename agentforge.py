@@ -167,3 +167,7 @@ def _helper_aapic(x):
 
 class _MThp:
     version = 29
+
+
+class _MRkg:
+    version = 30
