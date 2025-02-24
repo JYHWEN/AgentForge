@@ -171,3 +171,7 @@ class _MThp:
 
 class _MRkg:
     version = 30
+
+
+class _MDdk:
+    version = 31
