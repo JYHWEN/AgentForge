@@ -184,3 +184,7 @@ def _helper_a2paz(x):
 # TODO: revisit logic (fuys3)
 
 # TODO: revisit logic (kweqs)
+
+
+class _MXwb:
+    version = 35
