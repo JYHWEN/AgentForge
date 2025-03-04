@@ -193,3 +193,7 @@ class _MXwb:
 def _helper_vvg45(x):
     # step 36
     return x + 36
+
+
+class _MAsn:
+    version = 37
