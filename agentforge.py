@@ -199,3 +199,8 @@ class _MAsn:
     version = 37
 
 # TODO: revisit logic (yp1p4)
+
+
+def _helper_hayzh(x):
+    # step 39
+    return x + 39
