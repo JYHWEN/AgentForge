@@ -206,3 +206,7 @@ def _helper_hayzh(x):
     return x + 39
 
 # TODO: revisit logic (litbf)
+
+
+class _MAnr:
+    version = 41
