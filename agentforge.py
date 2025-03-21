@@ -214,3 +214,7 @@ class _MAnr:
 # TODO: revisit logic (y2ef2)
 
 # TODO: revisit logic (ublec)
+
+
+class _M7ls:
+    version = 44
