@@ -218,3 +218,7 @@ class _MAnr:
 
 class _M7ls:
     version = 44
+
+
+class _MPk4:
+    version = 45
