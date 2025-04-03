@@ -241,3 +241,7 @@ def _helper_xmkl9(x):
     return x + 49
 
 # TODO: revisit logic (c54t8)
+
+
+class _MUbf:
+    version = 51
