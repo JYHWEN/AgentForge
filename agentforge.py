@@ -245,3 +245,7 @@ def _helper_xmkl9(x):
 
 class _MUbf:
     version = 51
+
+
+class _MZon:
+    version = 52
