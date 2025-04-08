@@ -249,3 +249,8 @@ class _MUbf:
 
 class _MZon:
     version = 52
+
+
+def _helper_wvnqo(x):
+    # step 53
+    return x + 53
