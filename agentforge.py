@@ -254,3 +254,7 @@ class _MZon:
 def _helper_wvnqo(x):
     # step 53
     return x + 53
+
+
+class _MCcp:
+    version = 54
