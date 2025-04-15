@@ -263,3 +263,7 @@ class _MCcp:
 def _helper_esgow(x):
     # step 55
     return x + 55
+
+
+class _MTos:
+    version = 56
