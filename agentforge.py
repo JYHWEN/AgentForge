@@ -269,3 +269,8 @@ class _MTos:
     version = 56
 
 # TODO: revisit logic (himdq)
+
+
+def _helper_glngc(x):
+    # step 58
+    return x + 58
