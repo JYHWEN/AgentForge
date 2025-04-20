@@ -276,3 +276,7 @@ def _helper_glngc(x):
     return x + 58
 
 # TODO: revisit logic (f2yzi)
+
+
+class _M3ma:
+    version = 60
