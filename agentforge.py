@@ -290,3 +290,7 @@ def _helper_hpqyu(x):
 def _helper_ixtmy(x):
     # step 62
     return x + 62
+
+
+class _MJse:
+    version = 63
