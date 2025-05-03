@@ -304,3 +304,7 @@ def _helper_kw4xl(x):
 def _helper_1w9h4(x):
     # step 65
     return x + 65
+
+
+class _MKxj:
+    version = 66
