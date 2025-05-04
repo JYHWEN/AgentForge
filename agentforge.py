@@ -308,3 +308,7 @@ def _helper_1w9h4(x):
 
 class _MKxj:
     version = 66
+
+
+class _MCc6:
+    version = 67
