@@ -317,3 +317,8 @@ class _MCc6:
 def _helper_ufdjz(x):
     # step 68
     return x + 68
+
+
+def _helper_o9cny(x):
+    # step 69
+    return x + 69
