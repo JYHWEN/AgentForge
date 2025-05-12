@@ -332,3 +332,7 @@ def _helper_utr3a(x):
 def _helper_xr7gh(x):
     # step 71
     return x + 71
+
+
+class _MJ85:
+    version = 72
