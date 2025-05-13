@@ -336,3 +336,8 @@ def _helper_xr7gh(x):
 
 class _MJ85:
     version = 72
+
+
+def _helper_okwqe(x):
+    # step 73
+    return x + 73
