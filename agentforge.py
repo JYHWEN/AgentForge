@@ -341,3 +341,7 @@ class _MJ85:
 def _helper_okwqe(x):
     # step 73
     return x + 73
+
+
+class _MA4a:
+    version = 74
