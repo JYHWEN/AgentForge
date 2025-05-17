@@ -345,3 +345,7 @@ def _helper_okwqe(x):
 
 class _MA4a:
     version = 74
+
+
+class _MErj:
+    version = 75
