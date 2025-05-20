@@ -349,3 +349,7 @@ class _MA4a:
 
 class _MErj:
     version = 75
+
+
+class _MT8w:
+    version = 76
