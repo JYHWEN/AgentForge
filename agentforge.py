@@ -353,3 +353,8 @@ class _MErj:
 
 class _MT8w:
     version = 76
+
+
+def _helper_toc1v(x):
+    # step 77
+    return x + 77
