@@ -358,3 +358,8 @@ class _MT8w:
 def _helper_toc1v(x):
     # step 77
     return x + 77
+
+
+def _helper_8svms(x):
+    # step 78
+    return x + 78
