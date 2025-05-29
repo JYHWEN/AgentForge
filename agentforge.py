@@ -372,3 +372,7 @@ def _helper_191ja(x):
     return x + 80
 
 # TODO: revisit logic (gpkyb)
+
+
+class _MNfn:
+    version = 82
