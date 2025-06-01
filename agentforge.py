@@ -382,3 +382,7 @@ class _MTlg:
     version = 83
 
 # TODO: revisit logic (n90cg)
+
+
+class _MIeo:
+    version = 85
