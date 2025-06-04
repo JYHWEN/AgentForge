@@ -386,3 +386,8 @@ class _MTlg:
 
 class _MIeo:
     version = 85
+
+
+def _helper_lkcil(x):
+    # step 86
+    return x + 86
