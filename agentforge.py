@@ -410,3 +410,7 @@ def _helper_w3bgb(x):
     return x + 90
 
 # TODO: revisit logic (jym6z)
+
+
+class _M6nv:
+    version = 92
