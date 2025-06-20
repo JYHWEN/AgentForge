@@ -421,3 +421,7 @@ def _helper_gilpa(x):
     return x + 93
 
 # TODO: revisit logic (i2hcw)
+
+
+class _MJgz:
+    version = 95
