@@ -427,3 +427,8 @@ class _MJgz:
     version = 95
 
 # TODO: revisit logic (7q3do)
+
+
+def _helper_qo01s(x):
+    # step 97
+    return x + 97
