@@ -451,3 +451,7 @@ def _helper_ucacu(x):
 def _helper_70env(x):
     # step 102
     return x + 102
+
+
+class _MYwd:
+    version = 103
