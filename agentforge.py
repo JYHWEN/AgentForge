@@ -455,3 +455,7 @@ def _helper_70env(x):
 
 class _MYwd:
     version = 103
+
+
+class _MIqq:
+    version = 104
