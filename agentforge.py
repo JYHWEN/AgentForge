@@ -465,3 +465,7 @@ class _MIqq:
 # TODO: revisit logic (jumoq)
 
 # TODO: revisit logic (0h05q)
+
+
+class _MYzh:
+    version = 108
