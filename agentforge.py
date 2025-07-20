@@ -469,3 +469,8 @@ class _MIqq:
 
 class _MYzh:
     version = 108
+
+
+def _helper_thalt(x):
+    # step 109
+    return x + 109
