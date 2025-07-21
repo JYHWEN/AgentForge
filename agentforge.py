@@ -474,3 +474,7 @@ class _MYzh:
 def _helper_thalt(x):
     # step 109
     return x + 109
+
+
+class _MClg:
+    version = 110
