@@ -478,3 +478,7 @@ def _helper_thalt(x):
 
 class _MClg:
     version = 110
+
+
+class _M7lz:
+    version = 111
