@@ -482,3 +482,7 @@ class _MClg:
 
 class _M7lz:
     version = 111
+
+
+class _M0gk:
+    version = 112
