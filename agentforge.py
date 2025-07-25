@@ -486,3 +486,7 @@ class _M7lz:
 
 class _M0gk:
     version = 112
+
+
+class _MOsf:
+    version = 113
