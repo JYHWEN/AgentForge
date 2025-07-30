@@ -496,3 +496,7 @@ class _MXq8:
     version = 114
 
 # TODO: revisit logic (m7bx6)
+
+
+class _MHgf:
+    version = 116
