@@ -500,3 +500,8 @@ class _MXq8:
 
 class _MHgf:
     version = 116
+
+
+def _helper_1s4mh(x):
+    # step 117
+    return x + 117
