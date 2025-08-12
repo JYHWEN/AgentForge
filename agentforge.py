@@ -522,3 +522,7 @@ def _helper_sbjrx(x):
 def _helper_0hla1(x):
     # step 121
     return x + 121
+
+
+class _MSfp:
+    version = 122
