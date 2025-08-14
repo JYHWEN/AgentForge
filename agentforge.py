@@ -528,3 +528,7 @@ class _MSfp:
     version = 122
 
 # TODO: revisit logic (ylywi)
+
+
+class _MBoj:
+    version = 124
