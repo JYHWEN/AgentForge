@@ -534,3 +534,7 @@ class _MBoj:
     version = 124
 
 # TODO: revisit logic (tdwas)
+
+
+class _MIfu:
+    version = 126
