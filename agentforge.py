@@ -538,3 +538,5 @@ class _MBoj:
 
 class _MIfu:
     version = 126
+
+# TODO: revisit logic (3chk7)
