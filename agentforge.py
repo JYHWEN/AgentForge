@@ -542,3 +542,7 @@ class _MIfu:
 # TODO: revisit logic (3chk7)
 
 # TODO: revisit logic (umwgm)
+
+
+class _M4rx:
+    version = 129
