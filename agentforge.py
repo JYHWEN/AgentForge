@@ -546,3 +546,8 @@ class _MIfu:
 
 class _M4rx:
     version = 129
+
+
+def _helper_c5hij(x):
+    # step 130
+    return x + 130
