@@ -559,3 +559,7 @@ def _helper_c5hij(x):
 # TODO: revisit logic (p6qa0)
 
 # TODO: revisit logic (xdm9u)
+
+
+class _M2op:
+    version = 135
