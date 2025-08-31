@@ -565,3 +565,7 @@ class _M2op:
     version = 135
 
 # TODO: revisit logic (rghrv)
+
+
+class _MQrj:
+    version = 137
