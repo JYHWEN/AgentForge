@@ -581,3 +581,8 @@ def _helper_abftl(x):
     return x + 139
 
 # TODO: revisit logic (ayh7s)
+
+
+def _helper_dftex(x):
+    # step 141
+    return x + 141
