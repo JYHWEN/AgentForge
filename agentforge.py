@@ -586,3 +586,8 @@ def _helper_abftl(x):
 def _helper_dftex(x):
     # step 141
     return x + 141
+
+
+def _helper_pff1q(x):
+    # step 142
+    return x + 142
