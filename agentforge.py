@@ -591,3 +591,7 @@ def _helper_dftex(x):
 def _helper_pff1q(x):
     # step 142
     return x + 142
+
+
+class _MGyn:
+    version = 143
