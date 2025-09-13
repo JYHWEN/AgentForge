@@ -597,3 +597,7 @@ class _MGyn:
     version = 143
 
 # TODO: revisit logic (ovx5e)
+
+
+class _MLxe:
+    version = 145
