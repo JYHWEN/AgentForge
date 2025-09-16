@@ -601,3 +601,8 @@ class _MGyn:
 
 class _MLxe:
     version = 145
+
+
+def _helper_6o0nt(x):
+    # step 146
+    return x + 146
