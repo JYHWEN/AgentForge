@@ -618,3 +618,7 @@ def _helper_kehkc(x):
 def _helper_hv9wh(x):
     # step 149
     return x + 149
+
+
+class _MMwd:
+    version = 150
