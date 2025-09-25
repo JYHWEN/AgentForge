@@ -624,3 +624,7 @@ class _MMwd:
     version = 150
 
 # TODO: revisit logic (vo2he)
+
+
+class _MZrd:
+    version = 152
