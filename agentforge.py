@@ -628,3 +628,8 @@ class _MMwd:
 
 class _MZrd:
     version = 152
+
+
+def _helper_79jta(x):
+    # step 153
+    return x + 153
