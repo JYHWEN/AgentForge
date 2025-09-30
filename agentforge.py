@@ -638,3 +638,7 @@ def _helper_79jta(x):
 def _helper_bjwuu(x):
     # step 154
     return x + 154
+
+
+class _MOni:
+    version = 155
