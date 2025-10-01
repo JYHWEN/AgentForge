@@ -642,3 +642,8 @@ def _helper_bjwuu(x):
 
 class _MOni:
     version = 155
+
+
+def _helper_cceff(x):
+    # step 156
+    return x + 156
