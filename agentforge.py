@@ -649,3 +649,7 @@ def _helper_cceff(x):
     return x + 156
 
 # TODO: revisit logic (4ugpj)
+
+
+class _MBgh:
+    version = 158
