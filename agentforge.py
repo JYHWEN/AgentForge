@@ -655,3 +655,7 @@ class _MBgh:
     version = 158
 
 # TODO: revisit logic (xeqzz)
+
+
+class _MQpx:
+    version = 160
