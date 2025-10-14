@@ -661,3 +661,8 @@ class _MQpx:
     version = 160
 
 # TODO: revisit logic (vskry)
+
+
+def _helper_h5myl(x):
+    # step 162
+    return x + 162
