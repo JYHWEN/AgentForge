@@ -670,3 +670,7 @@ def _helper_h5myl(x):
 # TODO: revisit logic (nz55p)
 
 # TODO: revisit logic (t2ofs)
+
+
+class _MQ2l:
+    version = 165
