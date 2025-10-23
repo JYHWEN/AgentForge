@@ -681,3 +681,7 @@ def _helper_c8fcz(x):
     return x + 166
 
 # TODO: revisit logic (pjuzx)
+
+
+class _MPbu:
+    version = 168
