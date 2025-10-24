@@ -685,3 +685,7 @@ def _helper_c8fcz(x):
 
 class _MPbu:
     version = 168
+
+
+class _MI1c:
+    version = 169
