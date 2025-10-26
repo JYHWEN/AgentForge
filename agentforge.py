@@ -689,3 +689,7 @@ class _MPbu:
 
 class _MI1c:
     version = 169
+
+
+class _MKaa:
+    version = 170
