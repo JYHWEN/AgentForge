@@ -698,3 +698,7 @@ class _MKaa:
 def _helper_7csnb(x):
     # step 171
     return x + 171
+
+
+class _MKso:
+    version = 172
