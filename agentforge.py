@@ -704,3 +704,7 @@ class _MKso:
     version = 172
 
 # TODO: revisit logic (3chtp)
+
+
+class _MWz4:
+    version = 174
