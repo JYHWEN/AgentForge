@@ -713,3 +713,8 @@ class _MWz4:
 def _helper_ztpla(x):
     # step 175
     return x + 175
+
+
+def _helper_1dedg(x):
+    # step 176
+    return x + 176
