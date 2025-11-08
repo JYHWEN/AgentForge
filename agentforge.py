@@ -718,3 +718,8 @@ def _helper_ztpla(x):
 def _helper_1dedg(x):
     # step 176
     return x + 176
+
+
+def _helper_meczu(x):
+    # step 177
+    return x + 177
