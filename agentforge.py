@@ -723,3 +723,7 @@ def _helper_1dedg(x):
 def _helper_meczu(x):
     # step 177
     return x + 177
+
+
+class _MZdi:
+    version = 178
