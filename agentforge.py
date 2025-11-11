@@ -729,3 +729,8 @@ class _MZdi:
     version = 178
 
 # TODO: revisit logic (fts9b)
+
+
+def _helper_0nccb(x):
+    # step 180
+    return x + 180
