@@ -741,3 +741,7 @@ def _helper_foyd7(x):
     return x + 181
 
 # TODO: revisit logic (njkek)
+
+
+class _MKcj:
+    version = 183
