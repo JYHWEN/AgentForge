@@ -754,3 +754,8 @@ def _helper_2qnix(x):
 # TODO: revisit logic (kacjg)
 
 # TODO: revisit logic (eqfcy)
+
+
+def _helper_hst8o(x):
+    # step 187
+    return x + 187
