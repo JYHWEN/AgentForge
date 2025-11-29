@@ -761,3 +761,7 @@ def _helper_hst8o(x):
     return x + 187
 
 # TODO: revisit logic (xchzs)
+
+
+class _MZye:
+    version = 189
