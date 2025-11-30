@@ -765,3 +765,7 @@ def _helper_hst8o(x):
 
 class _MZye:
     version = 189
+
+
+class _M5ni:
+    version = 190
