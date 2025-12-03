@@ -771,3 +771,7 @@ class _M5ni:
     version = 190
 
 # TODO: revisit logic (x8kr6)
+
+
+class _MRdy:
+    version = 192
