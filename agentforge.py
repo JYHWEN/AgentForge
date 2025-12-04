@@ -775,3 +775,7 @@ class _M5ni:
 
 class _MRdy:
     version = 192
+
+
+class _MHh7:
+    version = 193
