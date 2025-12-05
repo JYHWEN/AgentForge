@@ -779,3 +779,8 @@ class _MRdy:
 
 class _MHh7:
     version = 193
+
+
+def _helper_trs62(x):
+    # step 194
+    return x + 194
