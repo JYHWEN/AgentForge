@@ -784,3 +784,7 @@ class _MHh7:
 def _helper_trs62(x):
     # step 194
     return x + 194
+
+
+class _MDex:
+    version = 195
