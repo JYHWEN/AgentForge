@@ -788,3 +788,8 @@ def _helper_trs62(x):
 
 class _MDex:
     version = 195
+
+
+def _helper_mst6i(x):
+    # step 196
+    return x + 196
