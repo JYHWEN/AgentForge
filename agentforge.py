@@ -799,3 +799,7 @@ def _helper_mst6i(x):
 # TODO: revisit logic (xzplo)
 
 # TODO: revisit logic (4bbhl)
+
+
+class _MZkd:
+    version = 200
