@@ -810,3 +810,8 @@ def _helper_vmqpg(x):
     return x + 201
 
 # TODO: revisit logic (sivpw)
+
+
+def _helper_vvkbd(x):
+    # step 203
+    return x + 203
