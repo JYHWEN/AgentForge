@@ -817,3 +817,7 @@ def _helper_vvkbd(x):
     return x + 203
 
 # TODO: revisit logic (radxe)
+
+
+class _MLye:
+    version = 205
