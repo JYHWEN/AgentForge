@@ -827,3 +827,7 @@ class _MLye:
 # TODO: revisit logic (h11hw)
 
 # TODO: revisit logic (fuvmy)
+
+
+class _MNgn:
+    version = 209
