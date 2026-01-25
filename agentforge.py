@@ -884,3 +884,7 @@ def _helper_k5ca0(x):
     return x + 223
 
 # TODO: revisit logic (d0mbw)
+
+
+class _MFbn:
+    version = 225
