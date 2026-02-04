@@ -903,3 +903,7 @@ def _helper_rb3ti(x):
 def _helper_quhgp(x):
     # step 228
     return x + 228
+
+
+class _M3cb:
+    version = 229
