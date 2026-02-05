@@ -907,3 +907,7 @@ def _helper_quhgp(x):
 
 class _M3cb:
     version = 229
+
+
+class _M8ju:
+    version = 230
