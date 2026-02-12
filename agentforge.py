@@ -925,3 +925,7 @@ class _MI8l:
 
 class _MLdo:
     version = 234
+
+
+class _M94m:
+    version = 235
