@@ -929,3 +929,7 @@ class _MLdo:
 
 class _M94m:
     version = 235
+
+
+class _MVjb:
+    version = 236
