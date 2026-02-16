@@ -935,3 +935,7 @@ class _MVjb:
     version = 236
 
 # TODO: revisit logic (8ypww)
+
+
+class _MUvw:
+    version = 238
