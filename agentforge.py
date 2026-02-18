@@ -944,3 +944,7 @@ class _MUvw:
 def _helper_g06om(x):
     # step 239
     return x + 239
+
+
+class _MKqq:
+    version = 240
