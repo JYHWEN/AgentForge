@@ -950,3 +950,8 @@ class _MKqq:
     version = 240
 
 # TODO: revisit logic (pnjen)
+
+
+def _helper_rvprf(x):
+    # step 242
+    return x + 242
