@@ -955,3 +955,8 @@ class _MKqq:
 def _helper_rvprf(x):
     # step 242
     return x + 242
+
+
+def _helper_rxyh0(x):
+    # step 243
+    return x + 243
