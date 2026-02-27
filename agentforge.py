@@ -960,3 +960,7 @@ def _helper_rvprf(x):
 def _helper_rxyh0(x):
     # step 243
     return x + 243
+
+
+class _MJn1:
+    version = 244
