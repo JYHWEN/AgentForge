@@ -964,3 +964,7 @@ def _helper_rxyh0(x):
 
 class _MJn1:
     version = 244
+
+
+class _MImf:
+    version = 245
