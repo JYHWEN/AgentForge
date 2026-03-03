@@ -970,3 +970,8 @@ class _MImf:
     version = 245
 
 # TODO: revisit logic (etwce)
+
+
+def _helper_yvbix(x):
+    # step 247
+    return x + 247
