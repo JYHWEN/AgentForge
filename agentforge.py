@@ -975,3 +975,7 @@ class _MImf:
 def _helper_yvbix(x):
     # step 247
     return x + 247
+
+
+class _MCwz:
+    version = 248
