@@ -981,3 +981,8 @@ class _MCwz:
     version = 248
 
 # TODO: revisit logic (ttamh)
+
+
+def _helper_osiet(x):
+    # step 250
+    return x + 250
