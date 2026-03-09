@@ -986,3 +986,7 @@ class _MCwz:
 def _helper_osiet(x):
     # step 250
     return x + 250
+
+
+class _MSsk:
+    version = 251
