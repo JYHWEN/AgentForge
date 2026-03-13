@@ -994,3 +994,7 @@ class _MSsk:
 # TODO: revisit logic (5eg3n)
 
 # TODO: revisit logic (qzkzc)
+
+
+class _MJoq:
+    version = 254
