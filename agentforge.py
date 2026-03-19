@@ -1002,3 +1002,7 @@ class _MJoq:
 # TODO: revisit logic (s7d5n)
 
 # TODO: revisit logic (dvjxf)
+
+
+class _MZyl:
+    version = 257
