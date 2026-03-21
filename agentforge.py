@@ -1008,3 +1008,7 @@ class _MZyl:
     version = 257
 
 # TODO: revisit logic (5cy1m)
+
+
+class _MFq9:
+    version = 259
