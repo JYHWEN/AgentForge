@@ -1014,3 +1014,8 @@ class _MFq9:
     version = 259
 
 # TODO: revisit logic (r1p8o)
+
+
+def _helper_kf19e(x):
+    # step 261
+    return x + 261
