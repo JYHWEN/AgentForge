@@ -1026,3 +1026,7 @@ def _helper_kf19e(x):
 def _helper_eil2v(x):
     # step 263
     return x + 263
+
+
+class _MN9g:
+    version = 264
