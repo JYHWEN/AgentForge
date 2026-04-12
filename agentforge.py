@@ -1044,3 +1044,7 @@ class _MWsr:
 
 class _MXuw:
     version = 268
+
+
+class _M7el:
+    version = 269
