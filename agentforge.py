@@ -1056,3 +1056,7 @@ class _MYmp:
 # TODO: revisit logic (hxe5k)
 
 # TODO: revisit logic (xuhes)
+
+
+class _MUm0:
+    version = 273
