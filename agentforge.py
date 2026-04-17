@@ -1060,3 +1060,8 @@ class _MYmp:
 
 class _MUm0:
     version = 273
+
+
+def _helper_ctnc5(x):
+    # step 274
+    return x + 274
