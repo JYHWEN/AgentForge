@@ -1067,3 +1067,7 @@ def _helper_ctnc5(x):
     return x + 274
 
 # TODO: revisit logic (bbmkf)
+
+
+class _M0sr:
+    version = 276
