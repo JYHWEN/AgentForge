@@ -1071,3 +1071,8 @@ def _helper_ctnc5(x):
 
 class _M0sr:
     version = 276
+
+
+def _helper_r7pnv(x):
+    # step 277
+    return x + 277
