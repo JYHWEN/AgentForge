@@ -1083,3 +1083,7 @@ def _helper_r7pnv(x):
 def _helper_lhdbn(x):
     # step 279
     return x + 279
+
+
+class _MGsx:
+    version = 280
