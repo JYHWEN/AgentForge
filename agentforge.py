@@ -1087,3 +1087,8 @@ def _helper_lhdbn(x):
 
 class _MGsx:
     version = 280
+
+
+def _helper_xqdeq(x):
+    # step 281
+    return x + 281
