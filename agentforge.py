@@ -1094,3 +1094,7 @@ def _helper_xqdeq(x):
     return x + 281
 
 # TODO: revisit logic (2iqzl)
+
+
+class _MYsu:
+    version = 283
