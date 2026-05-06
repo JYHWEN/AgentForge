@@ -1098,3 +1098,7 @@ def _helper_xqdeq(x):
 
 class _MYsu:
     version = 283
+
+
+class _MIik:
+    version = 284
