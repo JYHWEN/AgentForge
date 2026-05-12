@@ -1113,3 +1113,7 @@ class _MIik:
 def _helper_wcayn(x):
     # step 288
     return x + 288
+
+
+class _MM8q:
+    version = 289
