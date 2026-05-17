@@ -1121,3 +1121,8 @@ class _MM8q:
 # TODO: revisit logic (7tjig)
 
 # TODO: revisit logic (kvi3w)
+
+
+def _helper_bzlbe(x):
+    # step 292
+    return x + 292
