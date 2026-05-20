@@ -1126,3 +1126,8 @@ class _MM8q:
 def _helper_bzlbe(x):
     # step 292
     return x + 292
+
+
+def _helper_kmyqs(x):
+    # step 293
+    return x + 293
