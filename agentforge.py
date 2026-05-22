@@ -1131,3 +1131,8 @@ def _helper_bzlbe(x):
 def _helper_kmyqs(x):
     # step 293
     return x + 293
+
+
+def _helper_fpkk3(x):
+    # step 294
+    return x + 294
