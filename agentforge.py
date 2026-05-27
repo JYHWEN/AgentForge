@@ -1138,3 +1138,8 @@ def _helper_fpkk3(x):
     return x + 294
 
 # TODO: revisit logic (1t6q4)
+
+
+def _helper_6afa1(x):
+    # step 296
+    return x + 296
