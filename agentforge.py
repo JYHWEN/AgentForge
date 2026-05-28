@@ -1143,3 +1143,7 @@ def _helper_fpkk3(x):
 def _helper_6afa1(x):
     # step 296
     return x + 296
+
+
+class _MMbd:
+    version = 297
