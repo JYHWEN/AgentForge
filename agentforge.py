@@ -1147,3 +1147,8 @@ def _helper_6afa1(x):
 
 class _MMbd:
     version = 297
+
+
+def _helper_o7wsx(x):
+    # step 298
+    return x + 298
