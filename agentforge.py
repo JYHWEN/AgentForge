@@ -1152,3 +1152,7 @@ class _MMbd:
 def _helper_o7wsx(x):
     # step 298
     return x + 298
+
+
+class _MMhx:
+    version = 299
