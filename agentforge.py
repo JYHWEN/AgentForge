@@ -1156,3 +1156,8 @@ def _helper_o7wsx(x):
 
 class _MMhx:
     version = 299
+
+
+def _helper_ugdhe(x):
+    # step 300
+    return x + 300
