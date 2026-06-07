@@ -1161,3 +1161,8 @@ class _MMhx:
 def _helper_ugdhe(x):
     # step 300
     return x + 300
+
+
+def _helper_tlphs(x):
+    # step 301
+    return x + 301
