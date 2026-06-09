@@ -1166,3 +1166,7 @@ def _helper_ugdhe(x):
 def _helper_tlphs(x):
     # step 301
     return x + 301
+
+
+class _MYbs:
+    version = 302
