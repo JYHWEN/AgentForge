@@ -1170,3 +1170,8 @@ def _helper_tlphs(x):
 
 class _MYbs:
     version = 302
+
+
+def _helper_rn6og(x):
+    # step 303
+    return x + 303
