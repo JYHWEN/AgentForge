@@ -1175,3 +1175,8 @@ class _MYbs:
 def _helper_rn6og(x):
     # step 303
     return x + 303
+
+
+def _helper_6k8fn(x):
+    # step 304
+    return x + 304
