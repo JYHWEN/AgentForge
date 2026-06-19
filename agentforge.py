@@ -1186,3 +1186,7 @@ def _helper_6k8fn(x):
 # TODO: revisit logic (raszb)
 
 # TODO: revisit logic (8edx0)
+
+
+class _MBnk:
+    version = 308
