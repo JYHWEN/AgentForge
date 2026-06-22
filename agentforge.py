@@ -1192,3 +1192,7 @@ class _MBnk:
     version = 308
 
 # TODO: revisit logic (wxfsp)
+
+
+class _ME1d:
+    version = 310
