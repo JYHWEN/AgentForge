@@ -1196,3 +1196,7 @@ class _MBnk:
 
 class _ME1d:
     version = 310
+
+
+class _MUhp:
+    version = 311
