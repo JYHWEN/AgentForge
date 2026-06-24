@@ -1200,3 +1200,7 @@ class _ME1d:
 
 class _MUhp:
     version = 311
+
+
+class _MPzu:
+    version = 312
