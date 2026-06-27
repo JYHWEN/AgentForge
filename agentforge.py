@@ -1206,3 +1206,7 @@ class _MPzu:
     version = 312
 
 # TODO: revisit logic (5adwj)
+
+
+class _MFib:
+    version = 314
