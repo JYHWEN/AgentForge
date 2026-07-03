@@ -1224,3 +1224,7 @@ def _helper_fvmgp(x):
 
 class _MSqh:
     version = 317
+
+
+class _MZan:
+    version = 318
