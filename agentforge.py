@@ -1228,3 +1228,7 @@ class _MSqh:
 
 class _MZan:
     version = 318
+
+
+class _MZ9v:
+    version = 319
