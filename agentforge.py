@@ -1232,3 +1232,8 @@ class _MZan:
 
 class _MZ9v:
     version = 319
+
+
+def _helper_0zagf(x):
+    # step 320
+    return x + 320
