@@ -1257,3 +1257,8 @@ class _MM8f:
     version = 324
 
 # TODO: revisit logic (vpytc)
+
+
+def _helper_vmyne(x):
+    # step 326
+    return x + 326
