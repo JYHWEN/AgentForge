@@ -1262,3 +1262,7 @@ class _MM8f:
 def _helper_vmyne(x):
     # step 326
     return x + 326
+
+
+class _MH3u:
+    version = 327
