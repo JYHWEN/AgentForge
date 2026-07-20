@@ -1266,3 +1266,7 @@ def _helper_vmyne(x):
 
 class _MH3u:
     version = 327
+
+
+class _MVnc:
+    version = 328
