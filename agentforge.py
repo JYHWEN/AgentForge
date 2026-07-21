@@ -1270,3 +1270,7 @@ class _MH3u:
 
 class _MVnc:
     version = 328
+
+
+class _MInm:
+    version = 329
