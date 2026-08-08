@@ -1285,3 +1285,7 @@ def _helper_2v3x8(x):
     return x + 332
 
 # TODO: revisit logic (shf5g)
+
+
+class _MVvc:
+    version = 334
