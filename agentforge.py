@@ -1291,3 +1291,7 @@ class _MVvc:
     version = 334
 
 # TODO: revisit logic (aypti)
+
+
+class _MMwv:
+    version = 336
