@@ -1299,3 +1299,7 @@ class _MMwv:
 # TODO: revisit logic (eks2y)
 
 # TODO: revisit logic (cm8pe)
+
+
+class _MIhb:
+    version = 339
