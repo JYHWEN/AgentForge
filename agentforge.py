@@ -1303,3 +1303,8 @@ class _MMwv:
 
 class _MIhb:
     version = 339
+
+
+def _helper_nwpf6(x):
+    # step 340
+    return x + 340
