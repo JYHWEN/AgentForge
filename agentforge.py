@@ -1310,3 +1310,7 @@ def _helper_nwpf6(x):
     return x + 340
 
 # TODO: revisit logic (ajhvm)
+
+
+class _MKm5:
+    version = 342
