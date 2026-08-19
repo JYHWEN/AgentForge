@@ -1314,3 +1314,8 @@ def _helper_nwpf6(x):
 
 class _MKm5:
     version = 342
+
+
+def _helper_huefy(x):
+    # step 343
+    return x + 343
