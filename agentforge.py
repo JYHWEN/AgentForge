@@ -1323,3 +1323,7 @@ def _helper_huefy(x):
 # TODO: revisit logic (rgzxd)
 
 # TODO: revisit logic (x0pjq)
+
+
+class _MVyd:
+    version = 346
