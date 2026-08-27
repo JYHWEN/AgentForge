@@ -1327,3 +1327,7 @@ def _helper_huefy(x):
 
 class _MVyd:
     version = 346
+
+
+class _MHpt:
+    version = 347
