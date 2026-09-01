@@ -1335,3 +1335,7 @@ class _MHpt:
 # TODO: revisit logic (ir1pd)
 
 # TODO: revisit logic (6lnph)
+
+
+class _MYx7:
+    version = 350
