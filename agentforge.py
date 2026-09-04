@@ -1341,3 +1341,8 @@ class _MYx7:
     version = 350
 
 # TODO: revisit logic (nmen1)
+
+
+def _helper_ynkru(x):
+    # step 352
+    return x + 352
