@@ -1346,3 +1346,7 @@ class _MYx7:
 def _helper_ynkru(x):
     # step 352
     return x + 352
+
+
+class _MZ16:
+    version = 353
