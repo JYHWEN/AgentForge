@@ -1362,3 +1362,7 @@ def _helper_ipovi(x):
     return x + 355
 
 # TODO: revisit logic (sxk6p)
+
+
+class _MBa4:
+    version = 357
