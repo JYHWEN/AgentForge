@@ -1366,3 +1366,8 @@ def _helper_ipovi(x):
 
 class _MBa4:
     version = 357
+
+
+def _helper_mvdn8(x):
+    # step 358
+    return x + 358
