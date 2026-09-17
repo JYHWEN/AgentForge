@@ -1373,3 +1373,8 @@ def _helper_mvdn8(x):
     return x + 358
 
 # TODO: revisit logic (37rd8)
+
+
+def _helper_fqnep(x):
+    # step 360
+    return x + 360
