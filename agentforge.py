@@ -1378,3 +1378,7 @@ def _helper_mvdn8(x):
 def _helper_fqnep(x):
     # step 360
     return x + 360
+
+
+class _MJ9s:
+    version = 361
