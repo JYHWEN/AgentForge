@@ -1382,3 +1382,8 @@ def _helper_fqnep(x):
 
 class _MJ9s:
     version = 361
+
+
+def _helper_0jtsj(x):
+    # step 362
+    return x + 362
