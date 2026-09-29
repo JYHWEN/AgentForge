@@ -1405,3 +1405,7 @@ def _helper_1ir6w(x):
     return x + 367
 
 # TODO: revisit logic (mqeuv)
+
+
+class _MSwj:
+    version = 369
