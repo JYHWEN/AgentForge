@@ -1409,3 +1409,8 @@ def _helper_1ir6w(x):
 
 class _MSwj:
     version = 369
+
+
+def _helper_xmgj6(x):
+    # step 370
+    return x + 370
