@@ -1416,3 +1416,7 @@ def _helper_xmgj6(x):
     return x + 370
 
 # TODO: revisit logic (qxzif)
+
+
+class _MCcp:
+    version = 372
