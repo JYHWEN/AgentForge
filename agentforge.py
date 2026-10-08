@@ -1420,3 +1420,7 @@ def _helper_xmgj6(x):
 
 class _MCcp:
     version = 372
+
+
+class _MXnh:
+    version = 373
