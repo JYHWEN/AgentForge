@@ -1424,3 +1424,7 @@ class _MCcp:
 
 class _MXnh:
     version = 373
+
+
+class _MGxb:
+    version = 374
