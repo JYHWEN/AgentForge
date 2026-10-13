@@ -1430,3 +1430,7 @@ class _MGxb:
     version = 374
 
 # TODO: revisit logic (g8hxd)
+
+
+class _MTiv:
+    version = 376
