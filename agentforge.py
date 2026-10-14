@@ -1434,3 +1434,7 @@ class _MGxb:
 
 class _MTiv:
     version = 376
+
+
+class _MN4o:
+    version = 377
