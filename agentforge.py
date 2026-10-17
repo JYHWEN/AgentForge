@@ -1438,3 +1438,8 @@ class _MTiv:
 
 class _MN4o:
     version = 377
+
+
+def _helper_b64xo(x):
+    # step 378
+    return x + 378
