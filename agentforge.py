@@ -1448,3 +1448,7 @@ def _helper_b64xo(x):
 def _helper_rzgnb(x):
     # step 379
     return x + 379
+
+
+class _MAmu:
+    version = 380
