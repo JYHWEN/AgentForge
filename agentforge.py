@@ -1452,3 +1452,7 @@ def _helper_rzgnb(x):
 
 class _MAmu:
     version = 380
+
+
+class _MZtp:
+    version = 381
