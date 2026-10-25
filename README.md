@@ -1,4 +1,3 @@
-# AgentForge
 A lightweight, open‑source framework for building and running simple agent‑based simulations in Python.
 
 ## Description
