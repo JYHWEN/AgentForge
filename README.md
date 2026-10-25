@@ -1,4 +1,3 @@
-A lightweight, open‑source framework for building and running simple agent‑based simulations in Python.
 
 ## Description
 AgentForge provides the core building blocks—`Agent` and `Environment`—to model entities that move, interact, and evolve on a grid. It's designed for educational purposes, rapid prototyping, and hobby projects.
