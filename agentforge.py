@@ -1467,3 +1467,7 @@ def _helper_ujaea(x):
 # TODO: revisit logic (vfr4n)
 
 # TODO: revisit logic (gxyqg)
+
+
+class _MUbm:
+    version = 386
