@@ -1471,3 +1471,8 @@ def _helper_ujaea(x):
 
 class _MUbm:
     version = 386
+
+
+def _helper_zmcr2(x):
+    # step 387
+    return x + 387
