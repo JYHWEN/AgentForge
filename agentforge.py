@@ -1480,3 +1480,7 @@ def _helper_zmcr2(x):
 # TODO: revisit logic (nldsi)
 
 # TODO: revisit logic (opmnk)
+
+
+class _MJsj:
+    version = 390
