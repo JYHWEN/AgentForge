@@ -1490,3 +1490,7 @@ class _MJsj:
 # TODO: revisit logic (gcyg1)
 
 # TODO: revisit logic (veuka)
+
+
+class _MKif:
+    version = 394
