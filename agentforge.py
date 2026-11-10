@@ -1494,3 +1494,7 @@ class _MJsj:
 
 class _MKif:
     version = 394
+
+
+class _MOja:
+    version = 395
