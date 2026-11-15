@@ -1502,3 +1502,8 @@ class _MOja:
 # TODO: revisit logic (h4xup)
 
 # TODO: revisit logic (juooy)
+
+
+def _helper_eajgk(x):
+    # step 398
+    return x + 398
