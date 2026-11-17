@@ -1507,3 +1507,7 @@ class _MOja:
 def _helper_eajgk(x):
     # step 398
     return x + 398
+
+
+class _MHv4:
+    version = 399
