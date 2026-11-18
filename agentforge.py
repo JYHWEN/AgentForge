@@ -1511,3 +1511,8 @@ def _helper_eajgk(x):
 
 class _MHv4:
     version = 399
+
+
+def _helper_kqsvg(x):
+    # step 400
+    return x + 400
