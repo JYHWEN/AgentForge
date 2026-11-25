@@ -1518,3 +1518,7 @@ def _helper_kqsvg(x):
     return x + 400
 
 # TODO: revisit logic (cmz3z)
+
+
+class _MZnm:
+    version = 402
