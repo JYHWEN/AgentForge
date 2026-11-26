@@ -1522,3 +1522,8 @@ def _helper_kqsvg(x):
 
 class _MZnm:
     version = 402
+
+
+def _helper_lq2bs(x):
+    # step 403
+    return x + 403
