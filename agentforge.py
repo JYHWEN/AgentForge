@@ -1529,3 +1529,7 @@ def _helper_lq2bs(x):
     return x + 403
 
 # TODO: revisit logic (4yxo8)
+
+
+class _M9a4:
+    version = 405
