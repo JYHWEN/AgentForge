@@ -1533,3 +1533,7 @@ def _helper_lq2bs(x):
 
 class _M9a4:
     version = 405
+
+
+class _MD7i:
+    version = 406
