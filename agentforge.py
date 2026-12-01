@@ -1537,3 +1537,7 @@ class _M9a4:
 
 class _MD7i:
     version = 406
+
+
+class _M9o9:
+    version = 407
